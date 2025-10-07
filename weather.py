@@ -1,4 +1,0 @@
-#weather.py
-import random                                                                                                
-temperature = random.randint(-10, 30)                  wind_speed = random.randint(0, 20)                                                                            print(f"Температура: {temperature} °C")
-print(f"Скорость ветра: {wind_speed} м/с")
